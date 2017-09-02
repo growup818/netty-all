@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/netty-JBoss-Marshalling-master/JBoss_Marshalling.iml" filepath="$USER_HOME$/Desktop/netty-JBoss-Marshalling-master/JBoss_Marshalling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NioBasicProject/NioBasicProject.iml" filepath="$PROJECT_DIR$/../NioBasicProject/NioBasicProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-all.iml" filepath="$PROJECT_DIR$/netty-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-serialize/netty-serialize.iml" filepath="$PROJECT_DIR$/netty-serialize/netty-serialize.iml" />
+    </modules>
+  </component>
+</project>
